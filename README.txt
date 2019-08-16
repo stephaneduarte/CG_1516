@@ -1,0 +1,17 @@
+TECLAS:
+- Jogo:
+	- Seta esquerda/direita: Move a nave;
+	- B: Dispara;
+	- S: Pausa;
+	- R: Restart;
+- Luzes:
+	- L: Liga/Desliga cálculo da iluminação;
+	- N: Liga/Desliga sol;
+	- C: Liga/Desliga estrelas;
+	- H: Liga/Desliga holofote da nave;
+	- G: Altera o modo de sombreamento;
+- Cameras:
+	- 1, 2, 3: Muda a câmera.
+- Teste:
+	- A: Ativa/Desativa wireframe.
+	- Space: Liga/Desliga esfera de colisão.
